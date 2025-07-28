@@ -1,1 +1,1 @@
-# outfit-recommender
+# business-recommender
